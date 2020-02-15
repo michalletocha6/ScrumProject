@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jee-scrumlab:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jee-scrumlab</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jee-scrumlab-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jee-scrumlab:war exploded" />
+    </root>
+  </artifact>
+</component>
