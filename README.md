@@ -14,7 +14,7 @@ To open project on intellij IDEA:
  * New
  * Project from existing sources
  * choose folder with cloned repo
- * open it
+ * open as Maven project
  
  Application is ready under this link:
  ```
