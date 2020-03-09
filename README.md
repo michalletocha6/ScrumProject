@@ -1,10 +1,29 @@
-# ScrumProject
-This is the project we had to do with the group with scrum ideology.
+# Zaplanuj jedzonko - scrum project with CodersLab
 
-## Technologies used
-- SQL database
-- Maven intellij IDEA
-- Servlets
+This is the application where people can create meal plans, meals and recipes. It contains classic CRUD operations on those entities. However this project was to teach us work in scrum methodology. That's why this project was during the course and before i get to know spring applications. Project based on servlets, classes and DAO classes.
 
-## Description
-Application where user can create meal plans and recipes. Also there is list of recipes and meal plans from all users. Additional panel for admin, who can block account.
+## Getting Started
+
+To open project on intellij IDEA:
+ - clone this repository
+ ```
+ git clone repo-url
+ ```
+ * open intellij
+ * go to File
+ * Open with existing sources
+ * choose folder with cloned repo
+ * open it
+ 
+ Application is ready under this link:
+ ```
+ http://localhost:8080
+ ```
+ 
+## Technologies Used
+
+* Maven
+* Servlets
+* MySql Database
+* MySql Workbench
+* JSTL
